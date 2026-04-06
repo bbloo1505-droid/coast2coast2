@@ -19,7 +19,7 @@ run = "pnpm --filter @workspace/coast2coast run dev"
 
 [services.production]
 build = [ "pnpm", "--filter", "@workspace/coast2coast", "run", "build" ]
-publicDir = "artifacts/coast2coast/dist/public"
+publicDir = "artifacts/coast2coast/dist"
 serve = "static"
 
 [[services.production.rewrites]]
