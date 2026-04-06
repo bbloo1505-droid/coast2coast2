@@ -1,0 +1,363 @@
+Build a genuinely premium, modern, high-converting website for a local business or contractor.
+
+The website must feel custom, memorable, polished, and trustworthy. It should look like a business that is established, capable, easy to work with, and worth contacting.
+
+This site is designed to maximise enquiries and booked work. Do not make it feel generic, overdesigned, or full of fluffy marketing language. Keep it simple, genuine, concise, straight to the point, and visually impressive.
+
+Top priorities:
+- Exceptional on mobile first, then desktop
+- Fast, clean, responsive, and smooth
+- Minimal words, strong structure, clear calls to action
+- Premium design without looking corporate or fake
+- Confident, modern, slightly bold
+- Every section should have a purpose
+- No clutter
+- No filler cards
+- No obvious AI-generated layout patterns
+- No giant walls of text
+- No excessive icons everywhere
+- No cheesy stock-site look
+
+Visual direction:
+- Clean luxury-inspired service business aesthetic
+- Strong typography
+- Excellent spacing and rhythm
+- Big, confident headings
+- Concise supporting text
+- Full-width sections
+- Large, high-quality imagery
+- Minimal but powerful use of colour
+- Soft gradients, subtle shadows, refined borders
+- Elegant contrast between text and background
+- Modern, crisp, premium UI
+- The design should feel expensive, even if the business is small
+
+Animation direction:
+- Use beautiful, smooth, tasteful animations that feel high-end
+- Prioritise animation quality over animation quantity
+- Subtle scroll reveals
+- Smooth fade/slide/scale entrances
+- Premium hover states
+- Gentle parallax or layered movement where appropriate
+- Smooth sticky header behaviour
+- Refined button interactions
+- Image reveals or project transitions
+- Animated counters only if relevant
+- Animations must be smooth on mobile and not hurt performance
+- Do not overdo motion or make the site feel distracting
+
+Mobile requirements:
+- Design mobile first
+- It must look incredible on a phone
+- Clear hierarchy and spacing on small screens
+- Thumb-friendly buttons
+- Sticky mobile call-to-action
+- Simple mobile navigation
+- Strong above-the-fold section on mobile
+- Content stacked cleanly with no cramped layouts
+- Text must be easy to scan quickly
+- Mobile should feel as premium as desktop, not like a cut-down version
+
+Desktop requirements:
+- Desktop should feel expansive, premium, and immersive
+- Use strong layout composition and spacing
+- Hero section should feel impressive and intentional
+- Create a polished, high-end feel without unnecessary complexity
+
+Site goals:
+- Make the business look trustworthy
+- Make the business stand out from competitors
+- Show what they do quickly
+- Show why someone should choose them
+- Make it effortless to contact them
+- Turn visitors into enquiries
+
+Tone:
+- Genuine
+- Clear
+- Direct
+- Confident
+- Not pushy
+- Not corporate
+- Not overly “salesy”
+- Not full of hype words
+- Write like a real good business owner, not a marketing robot
+
+Structure:
+Create a clear, conversion-focused structure such as:
+1. Hero section
+2. Services overview
+3. Why choose us / difference
+4. Selected projects, work examples, or results
+5. Simple process
+6. Testimonials or trust signals
+7. Strong call to action
+8. Contact section / quote form
+
+Hero section requirements:
+- Strong headline that clearly says what the business does
+- Short supporting text only
+- Primary call-to-action button
+- Secondary call-to-action if useful
+- Strong visual impact immediately
+- The hero should look world-class on both desktop and mobile
+- Avoid long paragraphs
+
+Content rules:
+- Keep copy concise
+- Every sentence must earn its place
+- Avoid generic filler like “we are committed to excellence”
+- Avoid fake-sounding marketing language
+- Use clear, grounded wording
+- Prioritise clarity over cleverness
+- Use short sections that are easy to scan
+- The site should feel premium because of design, structure, and confidence, not because of too much text
+
+UI rules:
+- Use fewer, better sections
+- Avoid repetitive card grids unless truly needed
+- If cards are used, make them feel intentional, minimal, and custom
+- Use varied layout composition so the site does not feel templated
+- Mix text, imagery, spacing, and section structure in a visually refined way
+- Buttons should feel premium and modern
+- Forms should be simple and easy to complete
+- Navigation should be clean and minimal
+- Add trust elements naturally without clutter
+
+Conversion rules:
+- Calls to action should appear in the right places without feeling spammy
+- Make phone, email, quote request, or booking actions obvious
+- Build trust quickly with visuals, wording, and proof
+- Make the next step feel easy and low-friction
+
+Technical expectations:
+- Fully responsive
+- Fast-loading
+- SEO-friendly structure
+- Accessible contrast and readable typography
+- Clean semantic HTML structure
+- Smooth performance on mobile
+- Production-quality design and code
+
+Important:
+This should feel like one of the best small business websites someone has ever seen.
+It must be simple, sharp, memorable, and believable.
+Do not make it look like a generic AI-generated landing page.
+Do not over-explain.
+Do not over-design.
+Make it feel premium, human, and highly effective.
+
+Now use the business information below to fully customise the website.
+Create all sections, copy, design direction, and layout around that business.Coast 2 coast mobile mechanics
+Years worth of experience on a variety of land rovers to your door
+Engine gearbox and diff specialist
+Call - 0435835688One of the most capable mobile mechanics on the coast!               Coast 2 coast mobile mechanics - 0435835688
+Mobile Auto Repair | Servicing | Breakdown | RWC
+Maleny to Maroochydore | Caloundra to Cooroy.Most relevant
+Newest
+Highest rating
+Lowest rating
+Paul Phipps
+1 review
+Edited 5 months ago
+We had Mitch come out recently to do some work on our Nissan. Quite a complex job. We had not used him before this but we were very impressed with his knowledge and work ethic. He worked without stopping all day and into the evening to …More
+❤️1
+Cat Johnson
+Local Guide·49 reviews·44 photos
+7 months ago
+For a girl who couldn’t even open her bonnet, Mitch was able to calmly and patiently explain to me what to do and what to look for. Response time was asap with good clarity/breakdown of fees . Mitch treated my car emergency with urgency and professionalism 👍🏽 Very grateful and appreciative for your service, thank you so much!!
+❤️2
+Cruise T
+3 reviews·1 photo
+3 months ago
+I had an issue with my 2WD‑4WD change, with the L4 light flashing, even though I was out of 4WD mode. It was a Saturday, and all the dealers I called were either booked out or closed. I was on the Sunshine Coast and needed to get back to …More
+❤️2
+Taye Wilkes
+1 review
+7 months ago
+I can't recommend Mitch from Coast 2 Coast Mobile mechanics highly enough! From the very first phone call he was friendly, professional and genuinely went above and beyond to help me! He took the time to chat to me about my car problem in …More
+❤️2
+Mikayla Watson
+6 reviews
+8 months ago
+Super friendly, on time, and explained everything in a way I could understand. You can tell he actually cares about doing a solid job, not just rushing through it. …More
+❤️2
+Siena Tabacchi
+1 review
+8 months ago
+Can not recommend Mitch enough!! On a Sunday, he went over and beyond to help when everyone else was shut.
+Parts should have taken 24 hours to 1 week to arrive. He was up early and called …More
+❤️2
+Jaco Colee
+1 review
+11 months ago
+Mitch didn’t take long to rock up at all and when he arrived didn’t muck around either.
+I had problems with the front end of my car and he had the wheel off front end …More
+❤️2
+Sarah Fleming
+2 reviews
+8 months ago
+Mitch is a fantastic mechanic. Called him this morning (Saturday) to see if he could pressure test my radiator. Was here within an hour. Turned out my radiator was cracked. He sourced a new one for us. We went and picked it up while he went …More
+❤️2
+Rory Fleming
+Local Guide·23 reviews
+6 months ago
+Mitch helped me out early on a Saturday morning. Top bloke and very good mechanic. Highly recommended 👍
+❤️1
+Jason Shields
+Local Guide·12 reviews·1 photo
+8 months ago
+Mitch from Coast 2 coast mobile mechanics
+diagnosed my car quickly and accurately, explaining the problem in simple terms. He has Competitive rates with no hidden fees. Provided a clear estimate …More
+❤️2
+Wyatt Utz
+1 review
+6 months ago
+Mitch was an absolute champion, fixed up my undrivable Colorado within an hour. Really honest and genuine and the price was great.
+❤️2
+Steph Rickadson
+4 reviews
+10 months ago
+Mitch is a fantastic mechanic and human. He goes out of his way to help you under any circumstance and is a thorough and efficient mechanic. He explains what he is doing really well (this is for the ladies - you can trust him and his work …More
+❤️2
+Buzz Clinton
+3 reviews·1 photo
+8 months ago
+Will not use this service due to the fact there vehicle was parked in the air and water section at ampol Birtinya.. Waiting for 15 minutes until the worker stuffs his face with GYG.. very inconsiderate. …More
+Photo 1 in review by Buzz Clinton
+🤯1
+Coast 2 coast mobile mechanics (owner)
+8 months ago
+Thanks for the review buzz, next time your in a pinch for some water or air try calling coast 2 coast mobile mechanics. I will have you sorted and back on the road a lot quicker than sitting in your car and moaning on the internet will.
+Christy Hammond
+3 reviews
+9 months ago
+Mitch is brilliant. He came out within 30 minuets of me calling to help with my battery/starter motor he was really kind and thorough. I really appreciate your help Mitch thank you so much.
+❤️2
+WOW WIPES
+2 reviews·5 photos
+9 months ago
+Top Job Mitch – Above and Beyond Service!
+
+I had car troubles whilst leaving my sons footy match last night, and had to …More
+❤️2
+Chris Vuleta
+5 reviews
+7 months ago
+Got Mitch out on the weekend to fix broken drive belt, legend of a guy, arranged parts, brought them out, and repaired my car quickly. Highly recommend.
+❤️2
+Amy Antell
+Local Guide·20 reviews
+7 months ago
+Absolutely brilliant! Came out at 8pm on a Friday night and knew exactly what he was doing and talking about. Sorted us out in a tight pinch so we could get home and very affordable. Extremely happy 😃
+❤️2
+Audrey Harrison
+1 review
+8 months ago
+Highly recommend wouldn't go anywhere else Mitch goes above and beyond to help you his very knowledgeable and he explains everything so you understand it I wouldn't recommend anyone else best mechanical service on the coast if you're looking for a honest and reliable mechanical service Mitch is you're man
+❤️2
+MidKnight
+3 reviews·1 photo
+8 months ago
+Had Mitch from Coast to Coast Mobile Mechanics come out to check an issue with my car — top bloke, professional, and did a great job. Highly recommend his services 👌 Thanks mate, really appreciate it! 👍
+
+❤️🙏2
+Joshua Loenen
+Local Guide·83 reviews·112 photos
+8 months ago
+Can not recommend highly enough. Was able to come out and look at my engine issues. Extremely fast and priced is so reasonable. If you ever need a Mobile Mechanic on the sunny coast definitely recommend. …More
+❤️2
+Bush Boys Tree Removal
+3 reviews
+5 months ago
+Called Mitch, got some very helpful Advice About my Landcruiser. Great service
+❤️2
+Tom Hutchinson
+5 reviews
+7 months ago
+Fantastic service, cannot recommend Mitch enough reliable and and great value! Just an honest mechanic - not many left!
+❤️2
+Steve Regan
+Local Guide·20 reviews·3 photos
+a year ago
+Mitch was fantastic, come to my place at short notice and had my car running within the hour. Great knowledge and quality workmanship, Highly recommended and will be using Mitch again in the future.
+❤️1
+Anita Wilson
+4 reviews
+a year ago
+Mitch helped me out and went above and beyond, just came back from frazer and done a clutch hose and came out to me at 4am to fix and also went to Brisbane to pick up a part for me, is a great mechanic and would definitely recommend.
+❤️1
+Ricky Burton
+1 review
+a year ago
+Highly recommended. Was on holiday on the sunshine coast when our Prado decided not to start. Being a Sunday I was getting a little worried after calling every mobile mechanic I came across on google with no response. I found Mitch's ad and …More
+
+❤️🤯2
+Andrew England
+Local Guide·26 reviews·50 photos
+a year ago
+Two days into my half lap of Australia and my patrol went limp i called Mitch early around 0630 he was on his way before 0700 i felt bad later to find out he has a new born at home thats why he missed the first call but none the less he was …More
+❤️1
+Matt Winton
+Local Guide·14 reviews·2 photos
+a year ago
+Mitch was great! Called on the weekend and was no dramas at all, found the part pretty quick and had it sorted.
+❤️1
+ワタシ
+4 reviews·1 photo
+a year ago
+I couldn’t start engine and had no idea, he came to my address less than 1 hour. Great price. …More
+❤️1
+Kenny Judson
+1 review
+a year ago
+Mitch came out while I was at work took my car out for a break test and ruined my car it now doesn't start won't go forward or back yet still took payment and disappeared before I could get home will never use these guys again absolutely pissed off
+❤️1
+Ruby Rogers
+1 review
+2 years ago
+Replaced a cracked head on my Suzuki. So happy with the result and my car hasn’t skipped a beat since.
+Very honest & reliable mechanic.
+❤️1
+Sammi
+11 reviews
+2 years ago
+Highly recommend Mitch. Cannot fault the professionalism, workmanship and punctuality. Hard to come by mechanics who pride themselves in what they do. Thanks for getting us out of a pickle!
+❤️1
+Tim G
+16 reviews·1 photo
+2 years ago
+Mitch is a great guy and very helpful. He does a quality job on all makes and models of vehicles !
+❤️1
+Maddison Orlando
+3 reviews
+a year ago
+Very impressed with The quality of service. We’re fast in communicating and getting to me as soon as possible. Can’t recommend them enough and thank them for all the help.
+❤️1
+Munt Munt
+6 reviews
+2 years ago
+Punctual, efficient and works hard, clearly taking pride in his work. Top job, will be going with Mitch from here on out!
+❤️1
+John Magner
+7 reviews
+2 years ago
+Very happy with the service. Polite and punctual. Reasonably priced. Would recommend to anyone.
+❤️1
+Jase MC
+Local Guide·8 reviews·16 photos
+2 days ago
+New
+Good Friday, and my car shit itself out the bush. I had the parts but no tools or mechanical know how...Got dicked around by so many so called mobile mechanics...Found Mitch on a Google search and he was the ONLY one to respond to my …More
+Photo 1 in review by Jase MC
+Photo 2 in review by Jase MC
+Photo 3 in review by Jase MC
+Photo 4 in review by Jase MC
+❤️1
+Isabel
+6 months ago
+Joshua Robson
+2 reviews
+8 months ago
+Jan Wilson
+1 review

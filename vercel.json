@@ -1,0 +1,6 @@
+{
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm --filter @workspace/coast2coast build",
+  "outputDirectory": "artifacts/coast2coast/dist/public",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}

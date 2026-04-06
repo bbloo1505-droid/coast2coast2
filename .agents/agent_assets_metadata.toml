@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "Jk0hVv7T1diKSn8yvk2Oj"
+uri = "file://artifacts/coast2coast/src/assets/images/hero-bg.png"
+type = "image"
+title = "Hero Land Rover Workshop"
+
+[[generated]]
+id = "LER5SE1mXjqSQFn72AX9J"
+uri = "file://artifacts/coast2coast/src/assets/images/mechanic-portrait.png"
+type = "image"
+title = "Mechanic Portrait"
+
+[[generated]]
+id = "7nfKXntimX6mCfY9t0t78"
+uri = "file://artifacts/coast2coast/src/assets/images/engine-work.png"
+type = "image"
+title = "Engine Work Close Up"

@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Coast 2 Coast Mobile Mechanics"
+version = "1.0.0"
+id = "artifacts/coast2coast"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21279
+
+[services.development]
+run = "pnpm --filter @workspace/coast2coast run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/coast2coast", "run", "build" ]
+publicDir = "artifacts/coast2coast/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21279"
+BASE_PATH = "/"
