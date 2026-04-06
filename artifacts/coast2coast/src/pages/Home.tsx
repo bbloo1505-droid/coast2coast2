@@ -274,29 +274,41 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Tagline Bar */}
-        <div className="bg-primary py-8 overflow-hidden flex items-center justify-center border-y border-primary-border relative">
-          <motion.div
-            className="absolute inset-0 opacity-0 bg-[radial-gradient(ellipse_at_center,_rgba(0,0,0,0.15)_0%,_transparent_70%)]"
-            aria-hidden
-            animate={
-              prefersReducedMotion
-                ? undefined
-                : { opacity: [0.4, 0.65, 0.4] }
-            }
-            transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-          />
-          <div className="container mx-auto px-4 text-center relative z-10">
-            <motion.h2
-              className="text-3xl md:text-5xl font-display tracking-[0.2em] text-white uppercase m-0"
-              initial={prefersReducedMotion ? false : { opacity: 0, y: 16 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.55, ease: easeOutExpo }}
-            >
-              On Location <span className="text-black mx-4">•</span> On Time <span className="text-black mx-4">•</span> On Point
-            </motion.h2>
-          </div>
+        {/* Tagline bar: infinite marquee, or static if reduced motion */}
+        <div className="relative border-y-2 border-black bg-primary py-6 md:py-8 overflow-hidden">
+          {prefersReducedMotion ? (
+            <div className="container mx-auto px-4 text-center">
+              <h2 className="text-2xl md:text-5xl font-display tracking-[0.2em] text-white uppercase m-0">
+                On Location <span className="text-black mx-2 md:mx-4">•</span> On Time{" "}
+                <span className="text-black mx-2 md:mx-4">•</span> On Point
+              </h2>
+            </div>
+          ) : (
+            <>
+              <motion.div
+                className="flex w-max will-change-transform"
+                animate={{ x: ["0%", "-50%"] }}
+                transition={{ duration: 28, repeat: Infinity, ease: "linear" }}
+                aria-hidden
+              >
+                {[0, 1].map((copy) => (
+                  <div
+                    key={copy}
+                    className="flex shrink-0 items-center justify-center gap-0 px-10 md:px-16"
+                  >
+                    <div className="text-2xl md:text-5xl font-display tracking-[0.2em] text-white uppercase whitespace-nowrap">
+                      On Location <span className="text-black mx-2 md:mx-4">•</span> On Time{" "}
+                      <span className="text-black mx-2 md:mx-4">•</span> On Point
+                    </div>
+                    <span className="inline-block w-16 md:w-24 shrink-0" />
+                  </div>
+                ))}
+              </motion.div>
+              <span className="sr-only">
+                On Location, On Time, On Point
+              </span>
+            </>
+          )}
         </div>
 
         {/* Services Section */}
