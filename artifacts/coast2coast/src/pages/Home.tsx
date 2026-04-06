@@ -26,8 +26,8 @@ const REVIEWS = [
   { text: "Mitch is a fantastic mechanic. Called him this morning (Saturday) to see if he could pressure test my radiator. Was here within an hour. Sourced a new radiator, we picked it up while he went to his next job, then he came back and fitted it. Above and beyond.", author: "Sarah Fleming" },
   { text: "Mitch was an absolute champion, fixed up my undrivable Colorado within an hour. Really honest and genuine and the price was great.", author: "Wyatt" },
   { text: "Came out at 8pm on a Friday night and knew exactly what he was doing. Sorted us out in a tight pinch so we could get home, very affordable. Extremely happy.", author: "Amy" },
-  { text: "Went above and beyond — came out at 4am and also went to Brisbane to pick up a part for me. Great mechanic, would definitely recommend.", author: "Anita" },
-  { text: "Fantastic service, cannot recommend Mitch enough — reliable, great value. Just an honest mechanic — not many left!", author: "Tom" },
+  { text: "Went above and beyond: came out at 4am and also went to Brisbane to pick up a part for me. Great mechanic, would definitely recommend.", author: "Anita" },
+  { text: "Fantastic service, cannot recommend Mitch enough: reliable, great value. Just an honest mechanic. Not many left!", author: "Tom" },
 ];
 
 export default function Home() {
@@ -245,7 +245,7 @@ export default function Home() {
                     I'm Mitch, the owner and operator of Coast 2 Coast Mobile Mechanics. I started this business because I was tired of seeing locals get ripped off by workshops that overcharge and underdeliver.
                   </p>
                   <p>
-                    My philosophy is simple: turn up when I say I will, fix the problem properly, and charge a fair price. I'll walk you through exactly what's wrong with your car in plain English — no confusing mechanic jargon.
+                    My philosophy is simple: turn up when I say I will, fix the problem properly, and charge a fair price. I'll walk you through exactly what's wrong with your car in plain English, with no confusing mechanic jargon.
                   </p>
                   <div className="p-6 bg-card border border-border border-l-4 border-l-primary">
                     <h4 className="text-xl font-display uppercase text-foreground mb-2 tracking-wide">The Land Rover Specialist</h4>
@@ -294,7 +294,7 @@ export default function Home() {
                     </div>
                     <p className="text-muted-foreground text-sm leading-relaxed italic">"{review.text}"</p>
                   </div>
-                  <div className="font-display tracking-wider text-lg uppercase">— {review.author}</div>
+                  <div className="font-display tracking-wider text-lg uppercase">{review.author}</div>
                 </div>
               ))}
             </div>
